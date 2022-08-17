@@ -1,2 +1,0 @@
-# vito-binar
-tes binar
